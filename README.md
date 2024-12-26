@@ -55,7 +55,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contributors
 
-- [Varun Sardana](https://github.com/varunsardana004)
+- [Sweety Kumari]((https://github.com/Sjha2012))
 
 ---
 
